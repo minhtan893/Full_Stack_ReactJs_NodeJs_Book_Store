@@ -1,0 +1,33 @@
+{
+  "name": "full_stack_reactjs_nodejs_book_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/nodemon/bin/nodemon.js app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhtan893/Full_Stack_ReactJs_NodeJs_Book_Store.git"
+  },
+  "keywords": [
+    "book",
+    "store"
+  ],
+  "dependencies": {
+    "body-parser": "*",
+    "dotenv": "^4.0.0",
+    "express": "*",
+    "mysql": "*",
+    "mysql2": "^1.5.1",
+    "nodemon": "^1.12.1",
+    "sequelize": "^4.23.1",
+    "sequelize-cli": "*"
+  },
+  "author": "tannm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhtan893/Full_Stack_ReactJs_NodeJs_Book_Store/issues"
+  },
+  "homepage": "https://github.com/minhtan893/Full_Stack_ReactJs_NodeJs_Book_Store#readme"
+}
